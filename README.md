@@ -33,7 +33,6 @@ This end-to-end project covers all key phases of a Business Intelligence solutio
 | Tool            | Purpose                             |
 |-----------------|-------------------------------------|
 | Power BI        | Data modeling, dashboards, and insights |
-
 | DAX             | Measures, KPIs, calculated columns |
 | Power Query     | Data shaping and loading            |
 
